@@ -1,6 +1,6 @@
 Hello! 👋
 
-- :raising_hand: I am an Aspiring Data Analyst. I would like to explore my skills for a company that provides me an opportunity to.<br>
+- :raising_hand: I am a Certified Data Analyst. I would like to explore my skills for a company that provides me an opportunity to.<br>
 - 🌱 I keep upskilling my knowledge on Python with ML<br>
 - :two_men_holding_hands: I’m looking to collaborate with the companies on Data Analytics and enhance my skill sets effectively.
 - 💬 Ask me anything, I’ll try my best to share my knowledge, who needs it.<br>
