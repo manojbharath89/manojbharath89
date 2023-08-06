@@ -1,4 +1,4 @@
-Hello, fella! 👋
+Hello! 👋
 
 - :raising_hand: I am an Aspiring Data Analyst. I would like to explore my skills for a company that provides me an opportunity to.<br>
 - 🌱 I keep upskilling my knowledge on Python with ML<br>
