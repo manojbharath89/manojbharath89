@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Manoj-Bharath/172450772](https://www.mavenanalytics.io/profile/Manoj-Bharath/172450772)
 
-- 📞 +91-8807474836 [| WhatsApp | Coimbatore, Tamil Nadu, IN]
+- 📞 +91-8807474836 | WhatsApp | Coimbatore, Tamil Nadu, IN
 
 - 💬 Ask me anything, **I’ll try my best to share my knowledge.**
 
