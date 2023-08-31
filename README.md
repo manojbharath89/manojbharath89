@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manojbharathj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manojbharathj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manojbharathj30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojbharathj30" height="30" width="40" /></a>
 <a href="https://kaggle.com/manojbharathj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manojbharathj" height="30" width="40" /></a>
 <a href="https://instagram.com/manojbharath_j30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manojbharath_j30" height="30" width="40" /></a>
