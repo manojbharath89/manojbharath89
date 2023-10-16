@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojbharath89&label=Profile%20views&color=0e75b6&style=flat" alt="manojbharath89" /> </p>
 
-- 👯 I’m looking to collaborate on **with the companies on Data Analytics and enhance my skill sets effectively.**
+- 👯 I’m looking to collaborate **with the companies on Data Analytics and enhance my skill sets effectively.**
 
 - 🌱 I’m currently upskilling **my knowledge on Python with Machine Learning and Deep Learning**
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me anything, **I’ll try my best to share my knowledge.**
 
-- 📫 How to reach me **manojbharathjr3089@gmail.com**
+- 📫 How to reach me **manojbharathk@gmail.com**
 
-- ⚡ Fun fact **Dear AI, please Live, let Live... 😆**
+- ⚡ Fun fact  **Dear AI, please Live, let Live... 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
