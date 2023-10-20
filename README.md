@@ -1,30 +1,21 @@
-<h1 align="center">Hi.. I am Manoj Bharath here! 👋 </h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 💫 About Me:
+Hello! I'm Manoj Bharath here! <br><br>    👯 I’m looking to collaborate with the companies on Data Analytics and enhance my skill sets effectively.<br><br>    🌱 I’m currently upskilling my knowledge on Python with Machine Learning and Deep Learning<br><br>    📞 +91-8807474836 | WhatsApp | Coimbatore, Tamil Nadu, IN<br><br>    💬 Ask me anything, I’ll try my best to share my knowledge.<br><br>    📫 How to reach me manojbharathk@gmail.com<br><br>    ⚡ Fun fact Dear AI, please Live, let Live... 😆<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojbharath89&label=Profile%20views&color=0e75b6&style=flat" alt="manojbharath89" /> </p>
 
-- 👯 I’m looking to collaborate **with the companies on Data Analytics and enhance my skill sets effectively.**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manojbharath_j30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojbharathj30) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@manojbharathk) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Manoj-Bharath-J) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ManojbharathJ) 
 
-- 🌱 I’m currently upskilling **my knowledge on Python with Machine Learning and Deep Learning**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manojbharath89&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manojbharath89&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manojbharath89&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Manoj-Bharath/172450772](https://www.mavenanalytics.io/profile/Manoj-Bharath/172450772)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manojbharath89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📞 +91-8807474836 | WhatsApp | Coimbatore, Tamil Nadu, IN
+---
+[![](https://visitcount.itsvg.in/api?id=manojbharath89&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me anything, **I’ll try my best to share my knowledge.**
-
-- 📫 How to reach me **manojbharathk@gmail.com**
-
-- ⚡ Fun fact  **Dear AI, please Live, let Live... 😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manojbharathj30" target="blank"><img align="center" src="https://raw.githubusercontent.com/manojbharath89/Storage/tree/main/icons/linkedin.svg" alt="manojbharathj30" height="30" width="40" /></a>
-  <a href="https://kaggle.com/manojbharathj" target="blank"><img align="center" src="https://raw.githubusercontent.com/MaheshBharadwaj/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="manojbharathj" height="30" width="40" /></a>
-<a href="https://instagram.com/manojbharath_j30" target="blank"><img align="center" src="https://raw.githubusercontent.com/MaheshBharadwaj/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="manojbharath_j30" height="30" width="40" /></a>
-<a href="https://medium.com/@manojbharathk" target="blank"><img align="center" src="https://raw.githubusercontent.com/MaheshBharadwaj/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@manojbharathk" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/tree/master/!SVG/mysql.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
