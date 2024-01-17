@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Manoj Bharath here... :slightly_smiling_face: <br><br>    👯 I’m looking to collaborate with the companies on Data Analytics and enhance my skill sets effectively.<br><br>    🌱 I’m currently upskilling my knowledge on Python with Machine Learning and Deep Learning<br><br>    📞 +91-8807474836 | WhatsApp | Coimbatore, Tamil Nadu, IN<br><br>    💬 Ask me anything, I’ll try my best to share my knowledge.<br><br>    📫 How to reach me manojbharathk@gmail.com<br><br>    ⚡ Fun fact: Dear AI, please Live and let Live... 😆<br>
+Hello! I'm Manoj Bharath here... :slightly_smiling_face: <br><br>    👯 I’m looking to collaborate with the companies on Data Analytics and enhance my skill sets effectively.<br><br>    🌱 I’m currently upskilling my knowledge on Python with Machine Learning and Deep Learning<br><br>    📞 +91-8807474836 | WhatsApp | Coimbatore, Tamil Nadu, IN<br><br>    💬 Ask me anything, I’ll try my best to share my knowledge.<br><br>    📫 How to reach me? manojbharathk@gmail.com<br><br>    ⚡ Fun fact: Dear AI, please Live and let Live... 😆<br>
 
 
 ## 🌐 Socials:
